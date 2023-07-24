@@ -1,6 +1,6 @@
-Ekstrak file Final Project
-Masuk Ke file Final Project
-Pindahkan File ecommerce-youtube-master ke htdocs
+Ekstrak file ini
+Masuk Ke file development-uas
+Pindahkan File development-uas ke htdocs
 selanjutnya buka cmd didalam folder diatas
 
 lalu ketikkan perintah dibawah ini
